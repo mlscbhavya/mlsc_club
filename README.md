@@ -13,3 +13,4 @@ The code is split into three layers, like a cake:
 2. CSS (The Clothes / Styling): Without CSS, the calculator would just be a messy list of buttons on a white screen. The CSS steps in to center it perfectly on your screen, add the modern dark background, color-code the operators orange, and make the buttons react with a smooth change in color when you hover your mouse over them.
 
 3. JavaScript (The Brains / Logic): This is what makes the calculator actually work. When you click a button, JavaScript takes that number and types it onto the screen.
+you can edit this any time...
